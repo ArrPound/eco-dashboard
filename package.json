@@ -1,8 +1,13 @@
-{ 
+{
   "homepage": "https://arrpound.github.io/eco-dashboard.git",
   "name": "eco-dashboard",
   "version": "0.1.0",
   "private": true,
+  "description": "deployment",
+  "main": "index.js",
+  "repository": "https://github.com/ArrPound/eco-dashboard.git",
+  "author": "Min Thiha Kyaw <minthihakyaw32@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
