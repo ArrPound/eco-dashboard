@@ -5,7 +5,10 @@
   "private": true,
   "description": "deployment",
   "main": "index.js",
-  "repository": "https://github.com/ArrPound/eco-dashboard.git",
+   "repository": {
+    "url": "https://github.com/ArrPound/eco-dashboard.git",
+    "type": "git"
+  },
   "author": "Min Thiha Kyaw <minthihakyaw32@gmail.com>",
   "license": "MIT",
   "dependencies": {
